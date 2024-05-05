@@ -49,12 +49,12 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Bro
-          subtitle: "YABO YABO YAAAABO"
+          title: Angelo Santos
+          subtitle: ""
           imageUrl: "profile_photo.jpg"
-          imageWidth: 160
+          imageWidth: 240
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: Angelo Santos
           buttons:
             - name: Papers
               url: papers/
