@@ -68,8 +68,8 @@ params:
               # url: tags/
             # - name: Archive
             #   url: archive/
-            - Research
-              url: research/
+            - Papers
+              url: Papers/
             - Teaching
               url: teaching/
     socialIcons:
