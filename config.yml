@@ -51,13 +51,13 @@ params:
           enabled: true
           title: Angelo Santos
           subtitle: "Hello! I am a PhD candidate at the University of Houston. My interest are development, education and health. In my current research, I analyze the impacts of a special education policy in Brazil. I am also a python and soccer lover!"
-          imageUrl: "profile_photo.jpg"
-          imageWidth: 240
+          imageUrl: "profile_square.png"
+          imageWidth: 160
           imageHeight: 160
           imageTitle: Angelo Santos
           buttons:
-            - name: Papers
-              url: papers/
+            # - name: Papers
+            #   url: papers/
             # - name: Courses
             #   url: courses/
             # - name: Data
@@ -68,6 +68,11 @@ params:
               # url: tags/
             # - name: Archive
             #   url: archive/
+            - Research
+              url: research/
+              
+            - Teaching
+              url: teaching/
     socialIcons:
         - name: CV
           url: angelosantos_cv.pdf
