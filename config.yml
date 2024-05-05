@@ -70,7 +70,6 @@ params:
             #   url: archive/
             - Research
               url: research/
-              
             - Teaching
               url: teaching/
     socialIcons:
@@ -78,10 +77,10 @@ params:
           url: angelosantos_cv.pdf
         - name: Email
           url: mailto:afdossan@cougarnet.uh.edu
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+        - name: Linkedin
+          url: https://www.linkedin.com/in/angelo-santos-2854bb147/
+        # - name: Office Hours
+        #   url: officehours/
         # - name: Google Scholar
         #   url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         # - name: YouTube
