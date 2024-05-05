@@ -35,7 +35,7 @@ and the global population-weighted mean. Within each continent, exploiting varia
 
 ---
 
-##### Figure X: Figure caption
+##### Air pollution burden distribution in the world
 
 ![](paper1.png)
 
