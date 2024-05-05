@@ -68,9 +68,9 @@ params:
               # url: tags/
             # - name: Archive
             #   url: archive/
-            - Papers
-              url: Papers/
-            - Teaching
+            - name: Research
+              url: research/
+            - name: Teaching
               url: teaching/
     socialIcons:
         - name: CV
