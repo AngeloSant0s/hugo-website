@@ -1,17 +1,18 @@
 ---
-title: "Paper Title 1" 
-date: 2012-06-01
-tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Author Name"
-description: "This paper shows things. Published in Journal Name, 2012." 
-summary: "This paper shows things using various techniques and data." 
+title: "Population burdens of air pollution around the world:
+Distributions, inequalities, and links to per capita GDP" 
+# date: 2012-06-01
+# tags: ["keyword 1","keyword 2","keyword 3"]
+author: "Angelo Santos, Oscar Morales, Jere Behrman, Emily Hannum, Fan Wang"
+description: "This paper analyze the global population-weighted distribution of air pollution by aerosols and its relationship to GDP per capita." 
+summary: "This paper analyze the global population-weighted distribution of air pollution by aerosols and its relationship to GDP per capita." 
 cover:
     image: "paper1.png"
-    alt: "Image caption"
+    alt: "Air pollution burden distribution in the world"
     relative: false
-editPost:
-    URL: "https://doi.org/10.1257/aer.102.4.1721"
-    Text: "Journal Name"
+# editPost:
+#     URL: "https://doi.org/10.1257/aer.102.4.1721"
+#     Text: "Journal Name"
 
 ---
 
@@ -19,15 +20,18 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/job-rationing)
++ [Paper](https://fanwangecon.github.io/assets/GlobalPollutionBurden_SantosEtAl.pdf)
+<!-- + [Online appendix](appendix1.pdf) -->
+<!-- + [Code and data](https://github.com/pmichaillat/job-rationing) -->
 
 ---
 
 ##### Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We analyze the global population-weighted distribution of air pollution by aerosols and its relationship to GDP per capita. We first decompose the global distribution and consider both variations across and within regions and countries. Second, we map national and subnational distributions of air pollution by aerosols to national and subnational distributions
+of GDP per capita. We find considerable global exposure inequalities. Comparing continents at the extremes, the average individual in Asia is 3.32 times more exposed to air pollution by aerosols than the average individual in Oceania. In Africa and Asia, populations at the 80th percentile of the air pollution by aerosol distribution are 141% and 109%
+more exposed than population at the 20th percentile, and those at the 90th percentile are 227% and 185% more exposed those at the 10th percentile. Globally, we find that a doubling of GDP per capita is associated with a 11.8 percentage points reduction in the percentage deviation between a subnational unit’s population-weighted air pollution by aerosol level
+and the global population-weighted mean. Within each continent, exploiting variabilities in subnational data after controlling for aggregate regional variabilities, we find positive associations between air pollution by aerosols and GDP per capita in Africa and Europe, but negative association in the Americas, Asia, and Oceania.
 
 ---
 
@@ -35,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![](paper1.png)
 
----
+<!-- ---
 
 ##### Citation
 
@@ -51,13 +55,11 @@ pages = {XXX--YYY},
 title ={Title},
 volume = {Volume},
 year = {Year}}
-```
+``` -->
 
 ---
 
 ##### Related material
 
-+ [Presentation slides](presentation1.pdf)
-+ [Dissertation title](https://escholarship.org/uc/item/7jr3m96r) – PhD dissertation on which this paper is based.
-+ [Column title](https://cep.lse.ac.uk/pubs/download/cp365.pdf) – Nontechnical column describing the paper.
++ [Poster](Poster_PAA.pdf)
 
