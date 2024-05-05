@@ -1,5 +1,5 @@
 baseURL: "https://angelosantos.github.io/" 
-title: Prof. Name
+title: Angelo Santos 
 paginate: 20
 theme: PaperMod
 
@@ -11,8 +11,8 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: papers/
+        - name: Research
+          url: research/
           weight: 1
         - name: Courses
           url: courses/
