@@ -6,7 +6,7 @@ author: [with Florencia Lopez Boo, Jere Behrman, Emily Hannum and Fan Wang]
 description: "" 
 summary: "" 
 cover:
-    image: "excess_burden_LAC_map_children.pdf"
+    image: "excess_burden_LAC_map_children.png"
     alt: ""
     relative: false
 # editPost:
