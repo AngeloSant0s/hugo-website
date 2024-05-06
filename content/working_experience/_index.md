@@ -4,7 +4,7 @@ description: ""
 ---
 
 ### National Science Foundation 
-Doctoral researcher for the PIRE project 2023 - Current 
+Doctoral researcher for the PIRE project - 2023 - Current 
 
 * [Title: “Climate risk, pollution, and childhood inequalities in
 low- and middle-income countries”](https://ceci.sas.upenn.edu)
