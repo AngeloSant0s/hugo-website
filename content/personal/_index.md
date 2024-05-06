@@ -13,7 +13,7 @@ description: "About me"
 
 ### Some causes that I want to fight for:
 
-* Let's protect the enviroment! 🌳
+* Let's protect the environment! 🌳
 * Mental health is a priority! 🧠
 * Education changed my life, and can change others too! 📚
 * Social work can change microworlds! 🫂
