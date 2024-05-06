@@ -75,6 +75,8 @@ params:
               url: research/
             - name: Teaching
               url: teaching/
+            - name: Research experience
+              url: working_experience/
     socialIcons:
         - name: CV
           url: angelosantos_cv.pdf
