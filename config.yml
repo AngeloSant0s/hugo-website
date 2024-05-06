@@ -60,7 +60,9 @@ params:
     profileMode:
           enabled: true
           title: Angelo Santos
-          subtitle: "Hello! I am a PhD candidate at the University of Houston. My interest are development, education and envirometn. In my current research, I analyze the impacts of a special education policy in Brazil. I am also a python and soccer lover!"
+          subtitle: "Hello! I am a PhD candidate at the University of Houston with interests in development and enviromental economics.
+          My current research investigates how enviromental issues are distributed and how can we alleviated the occurence and effects of these issues.
+          I am specially interested on deforestation and air pollution. I am also a python, nature and soccer lover!"
           imageUrl: "profile_square.jpg"
           imageWidth: 160
           imageHeight: 160
