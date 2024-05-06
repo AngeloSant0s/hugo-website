@@ -20,6 +20,10 @@ menu:
         - name: Teaching
           url: teaching/
           weight: 3
+        - name: About me
+          url: personal/
+          weight: 4
+
         # - name: Courses
         #   url: courses/
         #   weight: 2
@@ -80,6 +84,9 @@ params:
               url: working_experience/
             - name: Teaching
               url: teaching/
+            - name: About me
+              url: personal/
+
 
     socialIcons:
         - name: CV
