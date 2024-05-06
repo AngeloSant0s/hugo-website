@@ -14,9 +14,12 @@ menu:
         - name: Research
           url: research/
           weight: 1
+        - name: Working experience
+          url: working_experience/
+          weight: 2
         - name: Teaching
           url: teaching/
-          weight: 2
+          weight: 3
         # - name: Courses
         #   url: courses/
         #   weight: 2
@@ -73,10 +76,11 @@ params:
             #   url: archive/
             - name: Research
               url: research/
+            - name: Working experience
+              url: working_experience/
             - name: Teaching
               url: teaching/
-            - name: Research experience
-              url: working_experience/
+
     socialIcons:
         - name: CV
           url: angelosantos_cv.pdf
