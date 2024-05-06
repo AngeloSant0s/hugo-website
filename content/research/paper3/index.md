@@ -32,7 +32,7 @@ cover:
 
 ##### Excess burden of air pollution in LAC
 
-![](excess_burden_LAC_map_children.pdf)
+![](excess_burden_LAC_map_children.png)
 
 <!-- --- -->
 <!-- 
