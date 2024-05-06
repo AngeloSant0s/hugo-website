@@ -3,7 +3,7 @@ title: "Population burdens of air pollution around the world:
 Distributions, inequalities, and links to per capita GDP" 
 # date: 2012-06-01
 # tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Angelo Santos, Oscar Morales, Jere Behrman, Emily Hannum, Fan Wang"
+author: " with Oscar Morales, Jere Behrman, Emily Hannum and Fan Wang"
 description: "This paper analyze the global population-weighted distribution of air pollution by aerosols and its relationship to GDP per capita." 
 summary: "This paper analyze the global population-weighted distribution of air pollution by aerosols and its relationship to GDP per capita." 
 cover:

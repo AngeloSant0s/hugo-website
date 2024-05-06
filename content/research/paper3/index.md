@@ -1,12 +1,12 @@
 ---
-title: "The gender gap in the market for superstars: evidence from the NYT Best sellers list" 
+title: "Climate Change and Early childhood development" 
 # date: 2015-12-01
 # tags: ["keyword 1","keyword 2","keyword 4"]
-author: [with Chinhui Juhn, Yona Rubinstein and Jordan Holbrook]
+author: [with Florencia Lopez Boo, Jere Behrman, Emily Hannum and Fan Wang]
 description: "" 
 summary: "" 
 cover:
-    image: "p_female_shares.png"
+    image: ""
     alt: ""
     relative: false
 # editPost:
@@ -32,7 +32,7 @@ cover:
 
 ##### Figure X: Figure caption
 
-![](p_female_shares.png)
+<!-- ![](p_female_shares.png) -->
 
 <!-- --- -->
 <!-- 
