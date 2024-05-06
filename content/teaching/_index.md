@@ -1,4 +1,16 @@
 ---
 title: "Teaching"
-description: ""
+description: "Courses taught"
 ---
+
+### University of Houston
+
+* Instructor, Principles of Microeconomics - Fall 2023 
+* TA, Macroeconomic theory 2 (PhD course) - Spring 2022
+* TA, History of Economic Doctrine - Fall 2021
+* TA, Intermediate microeconomics - Fall 2021
+
+### Federal University of Pernambuco - UFPE
+
+* TA, Macroeconomics I - Fall 2016
+* TA, Elements of Mathematical Economics I - Fall 2015
