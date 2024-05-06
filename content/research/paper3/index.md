@@ -6,7 +6,7 @@ author: [with Florencia Lopez Boo, Jere Behrman, Emily Hannum and Fan Wang]
 description: "" 
 summary: "" 
 cover:
-    image: ""
+    image: "excess_burden_LAC_map_children.pdf"
     alt: ""
     relative: false
 # editPost:
@@ -30,9 +30,9 @@ cover:
 
 ---
 
-##### Figure X: Figure caption
+##### Excess burden of air pollution in LAC
 
-<!-- ![](p_female_shares.png) -->
+![](excess_burden_LAC_map_children.pdf)
 
 <!-- --- -->
 <!-- 
