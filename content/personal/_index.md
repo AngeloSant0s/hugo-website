@@ -11,7 +11,7 @@ description: "About me"
 * Python is one of my love languages! (nerd joke 🤓)
 * I want to run a social bussiness one day! 
 
-### Some causes that I want to fight for:
+### Some causes I support:
 
 * Let's protect the environment! 🌳
 * Mental health is a priority! 🧠
