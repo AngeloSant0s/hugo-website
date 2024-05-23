@@ -21,7 +21,7 @@ low- and middle-income countries”](https://ceci.sas.upenn.edu)
 
 ### University of Houston, USA.
 
-RA for [Chinhui Juhn](https://uh.edu/%7Ecjuhn/) and [Yona Rubinstein](https://www.lse.ac.uk/management/people/academic-staff/yona-rubinstein) - 2021 - 2023
+* RA for [Chinhui Juhn](https://uh.edu/%7Ecjuhn/) and [Yona Rubinstein](https://www.lse.ac.uk/management/people/academic-staff/yona-rubinstein) - 2021 - 2023
 
 ### Federal University of Pernambuco (UFPE), Brazil.
 
