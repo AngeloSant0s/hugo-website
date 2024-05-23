@@ -21,6 +21,8 @@ cover:
 ##### Download
 
 + [Paper](https://fanwangecon.github.io/assets/GlobalPollutionBurden_SantosEtAl.pdf)
++ [Poster](Poster_PAA.pdf) - Best Poster award PAA 2024
+
 <!-- + [Online appendix](appendix1.pdf) -->
 <!-- + [Code and data](https://github.com/pmichaillat/job-rationing) -->
 
@@ -33,8 +35,22 @@ We analyze the global population-weighted distribution of air pollution by aeros
 ---
 
 ##### Air pollution burden distribution in the world
-
 ![](paper1.png)
+
+##### African countries distribution
+![](africa_dist.png)
+
+##### American countries distribution
+![](americas_dist.png)
+
+##### Asian countries distribution
+![](asia_dist.png)
+
+##### European countries distribution
+![](europe_dist.png)
+
+##### Oceania countries distribution
+![](oceania_dist.png)
 
 <!-- ---
 
@@ -53,10 +69,4 @@ title ={Title},
 volume = {Volume},
 year = {Year}}
 ``` -->
-
----
-
-##### Related material
-
-+ [Poster](Poster_PAA.pdf) - Best Poster award PAA 2024
 
