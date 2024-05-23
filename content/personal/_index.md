@@ -5,15 +5,15 @@ description: "About me"
 
 ### Random facts about me:
 
-* I am a proud brazilian 🇧🇷 and Pernambucano from Recife (Northeast of Brazil)! 
+* I am a proud Brazilian 🇧🇷 and Pernambucano from Recife (Northeast of Brazil)! 
 * I love soccer ⚽️ and I am proud supporter of the Clube Náutico Capibaribe! 🇲🇨 🐭 (this is our mascot and colors hahaha)
-* I love nature! beach 🏝️ and mountains 🏔️ are the perfect convex combination! Hiking is a great therapy! 😎
+* I love nature! beaches 🏝️ and mountains 🏔️ are the perfect convex combination! Hiking is a great therapy! 😎
 * I love python 🐍, is one of my love languages! (nerd joke 🤓)
 * I want to run a social bussiness one day! 
 
 ### Some causes I support:
 
-* Let's protect the environment! 🌳
-* Mental health is a priority! 🧠
-* Education changed my life, and can change others too! 📚
-* Social work can change microworlds! 🫂
+* Environmental protection 🌳
+* Mental health 🧠
+* Education for everyone 📚
+* Social work to change microworlds 🫂

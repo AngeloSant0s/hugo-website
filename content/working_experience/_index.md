@@ -13,5 +13,21 @@ low- and middle-income countries”](https://ceci.sas.upenn.edu)
 
 ### Inter-American Development Bank, USA.
 
-* Winter intern at the Education Division - Winter 2024
+* Winter intern at the Education Division - 2024
+
+###  [Young Lives](https://www.younglives.org.uk), University of Oxford, UK.
+
+* Data Matching event - 2024
+
+### University of Houston, USA.
+
+RA for [Chinhui Juhn](https://uh.edu/%7Ecjuhn/) and [Yona Rubinstein](https://www.lse.ac.uk/management/people/academic-staff/yona-rubinstein) - 2021 - 2023
+
+### Federal University of Pernambuco (UFPE), Brazil.
+
+* Graduate RA for [FACEPE](https://www.facepe.br) - 2018 - 2020
+* Graduate RA at Nucleo de Estudos Regionais e Urbanos (NERU) - 2018 - 2020
+* Undergraduate RA at [PET-Economia](https://sites.ufpe.br/peteconomia/) - 2014 - 2017
+
+
 
