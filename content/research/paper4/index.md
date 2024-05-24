@@ -3,7 +3,7 @@ title: "Paying us to not deforest:
 A community pay-for-performance program in Zambia" 
 # date: 2012-06-01
 # tags: ["keyword 1","keyword 2","keyword 3"]
-author: " "
+author: ""
 description: "" 
 summary: "" 
 cover:

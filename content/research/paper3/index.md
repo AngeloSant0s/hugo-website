@@ -3,8 +3,8 @@ title: "Climate Change and Early childhood development"
 # date: 2015-12-01
 # tags: ["keyword 1","keyword 2","keyword 4"]
 author: [with Florencia Lopez Boo, Jere Behrman, Emily Hannum and Fan Wang]
-description: "" 
-summary: "" 
+description: "In this paper we will discuss the relationship between climate change and Early childhood development" 
+summary: "In this paper we will discuss the relationship between climate change and Early childhood development"
 cover:
     image: "excess_burden_LAC_map_children.png"
     alt: ""
@@ -15,22 +15,22 @@ cover:
 
 ---
 
----
+<!-- --- -->
 
-##### Download
+<!-- ##### Download -->
 
 <!-- + [Paper](paper2.pdf)
 + [Online appendix](appendix2.pdf)
 + [Code and data](https://github.com/pmichaillat/unemployment-gap) -->
 
----
+<!-- --- -->
 
-##### Abstract
+<!-- ##### Abstract -->
 
 
----
+<!-- --- -->
 
-##### Excess burden of air pollution in LAC
+<!-- ##### Excess burden of air pollution in LAC -->
 
 ![](excess_burden_LAC_map_children.png)
 
