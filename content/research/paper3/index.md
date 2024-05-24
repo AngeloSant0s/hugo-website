@@ -25,7 +25,7 @@ cover:
 
 <!-- --- -->
 
-##### Abstract
+##### Description
 
 In this paper we discuss the relationship between climate change and Early childhood development in Latin America, focusing specifically in air pollution and extreme temperature. To discuss these issues, 
 we present a framework correlating climate risks and children development. Using this framework, we present a distributional analysis of extreme temperature and air pollution across Latin America, overlapping 
