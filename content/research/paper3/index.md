@@ -3,7 +3,7 @@ title: "Climate Change and Early childhood development"
 # date: 2015-12-01
 # tags: ["keyword 1","keyword 2","keyword 4"]
 author: [with Florencia Lopez Boo, Jere Behrman, Emily Hannum and Fan Wang]
-description: "In this paper we will discuss the relationship between climate change and Early childhood development" 
+description: "In this paper we discuss the relationship between climate change and Early childhood development in Latin America, focusing specifically in air pollution and extreme temperature." 
 summary: "In this paper we will discuss the relationship between climate change and Early childhood development"
 cover:
     image: "excess_burden_LAC_map_children.png"
@@ -25,9 +25,12 @@ cover:
 
 <!-- --- -->
 
-<!-- ##### Abstract -->
+##### Abstract
 
-
+In this paper we discuss the relationship between climate change and Early childhood development in Latin America, focusing specifically in air pollution and extreme temperature. To discuss these issues, 
+we present a framework correlating climate risks and children development. Using this framework, we present a distributional analysis of extreme temperature and air pollution across Latin America, overlapping 
+cell level based enviromental and children population measures. We also present a literature review on extreme tempearature and air pollution exposure effects on children developmental outcomes, as cognitive 
+development, nutrition, birth outcomes, and learning. In conclusion, we have a policy discussion about how Latin America is addressing these issues and some recommendations.
 <!-- --- -->
 
 <!-- ##### Excess burden of air pollution in LAC -->
