@@ -15,7 +15,7 @@ low- and middle-income countries”](https://ceci.sas.upenn.edu)
 
 * Winter intern at the Education Division - 2024
 
-###  [Young Lives](https://www.younglives.org.uk), University of Oxford, UK.
+###  Young Lives, University of Oxford, UK.
 
 * Data Matching event - 2024
 
