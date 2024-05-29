@@ -94,7 +94,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: angelosantos_cv.pdf
+          url: angelo_santos_cv.pdf
         - name: Email
           url: mailto:afdossan@cougarnet.uh.edu
         - name: Linkedin
